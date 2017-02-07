@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+                                                                                                      
+    <title>CSS Internal Style Sheet Example</title>
+        <style type="text/css"> 
+
+     .sampleClass  {
+        left: 100px;
+        top: 150px;                                                          
+        height: 100px;                                       
+        width: 200px;
+        padding: 20px;                                        
+        border: 10px solid blue;
+        border-radius: 5px;
+        margin: 5px 5px 9px 10px;
+        background-color:red;     
+       }          
+      
+    .resumeClass { 
+        left: 100px;
+        top: 500px;                                                          
+        height: 290px;                                       
+        width: 410px;
+        padding: 20px;                                        
+        border: 10px solid orange;
+        border-radius: 5px;
+        margin: 5px 5px 9px 10px;
+        background-color:yellow;     
+        left: 10px;
+        top: 200px;
+        font-family: sans-serif;
+        color: black
+       }                  
+    .resumeClass2 { 
+        left: 100px;
+        top: 500px;                                                          
+        height: 290px;                                       
+        width: 410px;
+        padding: 20px;                                        
+        border: 10px solid orange;
+        border-radius: 5px;
+        margin: 5px 5px 9px 10px;
+        background-color:red;     
+        left: 10px;
+        top: 200px;
+        font-family: sans-serif;
+        color: black
+       }                  
+    .resumeClass3 { 
+        left: 100px;
+        top: 500px;                                                          
+        height: 430px;                                       
+        width: 410px;
+        padding: 20px;                                        
+        border: 10px solid orange;
+        border-radius: 5px;
+        margin: 5px 5px 9px 10px;
+        background-color:red;     
+        left: 10px;
+        top: 200px;
+        font-family: sans-serif;
+        color: black
+    } 
+                                                                          
+  <body>
+    <p class="sampleClass"> Matthew Yohannes </br> 123 Mr. Fisch Way<br> Fischville, FI 80000<br> 123.456.7890</th></tr>
+    <p class="resumeClass"> Here is a list of all thing that I have done! </br>History Bowl:</br><br> 1. Semifinalist in JV state bowl competition freshman year</br> <br> 2. Semifinalist in JV state bowl competition sophomore year</br><br>3.Second place in JV state bee competition sophomore year</br> <br>4.Qualified for state bowl (Varsity) finals Junior year</br><br>5.Second place in Varsity bee competition Junior year</br><br>6.Qualified for national competition all three years (9,11,12)</br>     </li> </p>                                                                            
+    <p class="resumeClass2"> <b><ins><br> Here are My Volunteer Hours:</br></ins></b><br> 1. I participated in Key Club (9,11)</br><br>2. I volunteer at the University of Colorado Hospital for around 3 hours on sundays. (2016-2017)   (grades 11, 12) </br><br>3. In total, I have volunteered for at least 94 hours at the hospital, University of Colorado Hospital - Anschutz</br><br> 4.I attend church/group activities with my community on saturdays  <br></p>                                                                  
+    <p class="resumeClass3"> <b><ins><br> Speech and Debate Team Accomplishments:</br></ins></b> <br>I competed in a variety of events. My main event was U.S. Domestic Extemporaneous Speaking, I am constantly reading the news and writing speeches on policy issues, social issues, and a variety of current events that impact the United States.</br> <br> 1.I participated in the optimist oratorical society contest, where I qualified and competed in a state-wide competition (11th)</br><br> 2. I have achieved a Varsity letter for this activity (11th)</br><br> 3.Superior Ribbon in DX (12th) - Golden High School Tournament </br><br> 4. 4th place in impromptu speaking - (12th) Cherry Creek High School Tournament</br><br> 5. 2nd alternate (3rd place) in Congressional Debating at Douglas County High School National Qualifying Tournament (12th)</br></p>                                                         
+  </body>
+</html>
